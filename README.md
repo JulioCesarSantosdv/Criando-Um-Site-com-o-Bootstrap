@@ -6,7 +6,7 @@ Status: Em Desenvolvimento ⚠️
 Este projeto consiste em um site de uma empresa de TI, a princípio é apresentado a home page dessa empresa. 
 
 
-<h2>Inspirado nos tutoriais do canal "Mr. Web Designer":</h2>
+<h2>Inspirado nos tutoriais do canal do Youtube "Mr. Web Designer":</h2>
 
 [https://www.buymeacoffee.com/mrwebdesigner]<br>
 [https://www.youtube.com/@MrWebDesignerAnas]<br>
@@ -31,29 +31,10 @@ Este projeto consiste em um site de uma empresa de TI, a princípio é apresenta
 <td> v5.1.0</td>
 </tr>
 </table>
-
-<h2>Project link</h2>
-[https://criando-um-site-com-o-bootstrap.netlify.app/]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 https://github.com/JulioCesarSantosdv/Criando-Um-Site-com-o-Bootstrap/assets/64735040/0cd39937-cf38-43e9-8d54-278352070e7f
+<br>
+<h2>Link do Projeto</h2>
+[https://criando-um-site-com-o-bootstrap.netlify.app/]
 
 
