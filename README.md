@@ -22,7 +22,7 @@ Este projeto consiste em um site de uma empresa de TI, a princípio é apresenta
 <td><strong>HTML</strong></td>
 <td><strong>JavaScript</strong></td>
 <td><strong>CSS</strong></td>
-<td><strong> Bootstrap </strong></td>
+<td><strong> Bootstrap</strong></td>
 </tr>
 <tr>
 <td>5</td>
