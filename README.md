@@ -31,9 +31,12 @@ Este projeto consiste em um site de uma empresa de TI, a princípio é apresenta
 <td> v5.1.0</td>
 </tr>
 </table>
-<br>
+
+
 https://github.com/JulioCesarSantosdv/Criando-Um-Site-com-o-Bootstrap/assets/64735040/0cd39937-cf38-43e9-8d54-278352070e7f
-<br>
+
+
+
 <h2>Link do Projeto</h2>
 [https://criando-um-site-com-o-bootstrap.netlify.app/]
 
